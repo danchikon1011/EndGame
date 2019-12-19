@@ -29,4 +29,38 @@
     <string name="Answer11">танковые войска</string>
 
 
+    <string name="BredovRus">БРЕДОВ Анатолий Федорович - пехотинец, командир отделения пулеметной роты 155‑го стрелкового полка 14‑й стрелковой дивизии Карельского фронта, сержант, Герой Советского Союза. Родился в г. Новгород. С 1938 жил в Мурманске, учился в СШ № 1. Работал слесарем на Мурманской судоверфи. Призван в армию в апреле 1942. Воевал на Мурманском направлении. В бою за высоту «Придорожная» у оз. Санта-ярви (неподалеку от пос. Спутник в Печенгском районе) 11.10.1944 в критический момент боя взорвал себя и окруживших солдат противника последней гранатой. Его наводчик Н. Ашурков при этом был тяжело ранен</string>
+    <string name="IvchenkoRus">Он родился в Красноярском крае в 1916 году. Он защищал высоту Малый Кариквайвишь 7 октября 1944 года, в первый день Петсамо-Киркенесской операции.Рота,где служил Ивченко,наткнулась на губительный огонь из пулемёта,спрятанный в дот в щели горы.Но Ивченко метнул гранату в амбразуру,тем самым,дав возможность роте разгромить дот полностью.</string>
+    <string name="ShablinRus">Александр Шабалин, контр-адмирал, участник советско-финской войны 1939-1940 годов и Великой Отечественной, был удостоен двух звезд Героя Советского Союза в течение одного года. Александр Шабалин, командуя обычным торпедным катером, потопил 32 корабля врага. Таких боевых достижений в мире больше не было. Также у героя была своя тактика ведения боя. </string>
+    <string name="MerezkovRus">С 19 февраля 1944 г. командующий войсками Карельского фронта, который освобождал Карелию и Заполярье. Под его руководством войска фронта провели Свирско-Петрозаводскую операцию, приведшую к освобождению Южной Карелии, и Петсамо-Киркенесскую операцию, в результате которой были освобождены советское Заполярье и северная часть Норвегии.</string>
+    <string name="ShubinRus">В годы ВОВ корреспондент фронтовой и армейских газет в Карелии и Мурманске. Не раз бывал в частях 14‑й армии Карельского фронта на Западной Лице. С ее полками входил в Петсамо и Киркенес. Многие поэтические произведения посвятил Мурманску, Заполярью, защитникам края.</string>
+    <string name="GolovkoRus">Арсений Григорьевич Головко - советский флотоводец, адмирал. Бессменный командующий Северным флотом во время Великой Отечественной войны.
+С июля 1940 по апрель 1946 года командовал Северным флотом. 17 июня 1941 под свою ответственность принял решение перевести флот в боевую готовность № 2 из-за участившихся разведвылетов немецкой авиации над базами флота. Бессменно командовал Северным флотом на протяжении всей Великой Отечественной войны. Под его руководством флот участвовал в обороне Мурманска и всего Советского Заполярья, в обеспечении проводки северных морских конвоев союзников и внутренних конвоев, в борьбе на коммуникациях германских войск у Северной Норвегии, в Петсамо-Киркенесской наступательной операции.</string>
+
+
+    <string name="BredovEng">Anatoliy Bredov was in the155th Rifle Regiment, 14th Rifle Division, 14th Army, Karelian Front. Sergeant Bredov killed 80 enemy soldiers during the operation along the Titovka-Petsamo road on 11 October 1944. He was soon disvovered and surrounded by German soldiers, forcing him to fight till the last bullet, before he eventually blew himself up with a grenade</string>
+    <string name="IvchenkoEng">He was born in Krasnoyarsk Territory in 1916.He was defending the mountain Small Karikvayvis the 7th October 1944.It was the first day of Petsamo-Kirkenes operation. The company of Ivchenko was gunned down by machine gun because they were found the permanent pillbox in the rock’s crevice But Ivchenko was able to throw the grenade to permanent pillbox. The company won that fight</string>
+    <string name="ShablinEng">Alexander Shabalin, a rear admiral who participated in the Soviet-Finnish War of 1939-1940 and the Great Patriotic War, was awarded two stars Hero of the Soviet Union for one year. Alexander Shabalin, in command of a conventional torpedo boat, sunk 32 enemy ships. There have been no such combat achievements in the world anymore. The hero also had his own tactics of fighting. </string>
+    <string name="MerezkovEng">From February 19, 1944 he was commander of the Karelian Front, which liberated Karelia and the Polar Region. Under his leadership, the front troops conducted the Svir-Petrozavod operation leading to the liberation of South Karelia, and the Petsamo-Kirkenes operation, which resulted in the liberation of the Soviet Polar Region and northern Norway.</string>
+    <string name="ShubinEng">During the War the correspondent of front and army newspapers in Karelia and Murmansk. More than once there were in Parts 14y armies of the Karelian front on Western the Person. With her regiments he was part of Petsamo and Kirkenes. Many poetry works were dedicated to Murmansk, Polar, defenders of the region.</string>
+    <string name="GolovkoEng">Arseniy Golovko was a Soviet admiral, whose naval service extended from the 1920s through the early Cold War.
+From 1940 to 1946, during the Second World War, he was Commander of the Red Banner Northern Fleet.
+After the war he held various naval commands, among them Commander of the Baltic Fleet. In 1956 he was named First Deputy Commander-in-Chief of the Soviet Navy. He died in 1962.</string>
+
+
+    <string name="BredovNameRus">Бредов Анатолий Федорович</string>
+    <string name="IvchenkoNameRus">Михаил Лаврентьевич Ивченко </string>
+    <string name="ShablinNameRus">Шабалин Александр Осипович</string>
+    <string name="MerezkovNameRus">Мерецков Кирилл Афанасьевич</string>
+    <string name="ShubinNameRus">Шубин Павел Николаевич</string>
+    <string name="GolovkoNameRus">Арсений Григорьевич Головко </string>
+
+    <string name="BredovNameEng">Anatoliy Bredov</string>
+    <string name="IvchenkoNameEng">Mikhail Ivchenko Laurentius </string>
+    <string name="ShablinNameEng">Shabalin Alexander Osipovich</string>
+    <string name="MerezkovNameEng">Meretskov Kirill Afanasyevich</string>
+    <string name="ShubinNameEng">Choubin Pavel Nikolaevich</string>
+    <string name="GolovkoNameEng">Arseniy Golovko</string>
+
+
 </resources>

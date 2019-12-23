@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <group android:checkableBehavior="single">
+
         <item
-            android:id="@+id/Quiz"
-            android:icon="@drawable/ic_launcher_foreground"
-            android:title="Quiz" />
+            android:id="@+id/titel"
+            app:showAsAction="always"
+            android:title="Title" />
+        <item
+            android:id="@+id/maps"
+            app:showAsAction="always"
+            android:title="Map" />
         <item
             android:id="@+id/Video"
-            android:icon="@drawable/ic_launcher_foreground"
+            app:showAsAction="always"
             android:title="Video" />
         <item
             android:id="@+id/Characters"
-            android:icon="@drawable/ic_launcher_foreground"
+            app:showAsAction="always"
             android:title="Characters" />
         <item
-            android:id="@+id/nav4"
-            android:icon="@drawable/ic_launcher_foreground"
-            android:title="Tools" />
+            android:id="@+id/Quiz"
+            app:showAsAction="always"
+            android:title="Quiz" />
+
+
     </group>
 
 

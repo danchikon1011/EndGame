@@ -8,6 +8,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
@@ -15,6 +16,7 @@ import android.os.Bundle;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Gravity;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
@@ -49,9 +51,13 @@ public class MainActivity extends AppCompatActivity {
             case "char":
                 fragmentClass = FragmentCharacters.class;
                 break;
-            case "nav4":
-                fragmentClass = FragmentQuiz.class;
-                break;
+                case "map":
+                    fragmentClass = FragmentMaps.class;
+                    break;
+                case "home":
+                    fragmentClass = FragmentMaps.class;
+                    break;
+
             }
             try {
                 fragment = (Fragment) fragmentClass.newInstance();
@@ -64,6 +70,18 @@ public class MainActivity extends AppCompatActivity {
             FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.flContent, fragment).commit();
 
+        }
+        else{
+            Log.d("TAG", "onCreate: there");
+            Fragment fragment = null;
+            Class fragmentClass = null;
+            fragmentClass=FragmentTitle.class;
+            try {fragment = (Fragment) fragmentClass.newInstance();}
+            catch (Exception e){
+                Log.d("TAG", "onCreate: error");
+            }
+            FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.flContent, fragment).commit();
         }
         setRequestedOrientation (ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         mDrawer =  findViewById(R.id.drawer_layout);
@@ -101,15 +119,19 @@ public class MainActivity extends AppCompatActivity {
 
                 fragmentClass = FragmentCharacters.class;
                 break;
-            case R.id.nav4:
-
-                fragmentClass = FragmentQuiz.class;
+            case R.id.titel:
+                fragmentClass=FragmentTitle.class;
+                break;
+            case R.id.maps:
+                Log.d("TAG", "selectDrawerItem: maps");
+                fragmentClass=FragmentMaps.class;
                 break;
             default:
 
                 fragmentClass = FragmentQuiz.class;
         }
-        if(menuItem.getItemId() == R.id.Quiz|menuItem.getItemId()== R.id.Characters|menuItem.getItemId()== R.id.nav4){
+        if(menuItem.getItemId() == R.id.Quiz|menuItem.getItemId()== R.id.Characters|menuItem.getItemId()== R.id.titel|menuItem.getItemId()== R.id.maps){
+            Log.d("TAG", "selectDrawerItem: прошел");
         try {
             fragment = (Fragment) fragmentClass.newInstance();
         } catch (Exception e) {

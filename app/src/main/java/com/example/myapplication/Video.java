@@ -73,8 +73,11 @@ public class Video extends YouTubeBaseActivity {
             case R.id.Characters:
                 str="char";
                 break;
-            case R.id.nav4:
-                str="nav4";
+            case R.id.maps:
+                str="map";
+                break;
+            case R.id.title:
+                str="home";
                 break;
             default:
                 str="quiz";

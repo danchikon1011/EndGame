@@ -29,6 +29,32 @@
     <string name="Answer11">танковые войска</string>
 
 
+    <string name="Question1Eng">When was the Petsamo-Kirkenes operation?</string>
+    <string name="Question2Eng">What country was the area of Petsamo belonged until 19th September of 1944?</string>
+    <string name="Question3Eng">What was the encryption of the Petsamo-Kirkenes operation?</string>
+    <string name="Question4Eng">What was the surname of commander of The Karelian fleet in October of 1944?</string>
+    <string name="Question5Eng">What was the surname of commander of the North fleet in October of 1944?</string>
+    <string name="Question6Eng">How many periods of the Petsamo-Kirkenes operation were there?</string>
+    <string name="Question7Eng">What was the surname of a soldier who did that all over with Matrosov at the first day of Petsamo-Kirkenes operation?</string>
+    <string name="Question8Eng">What was the surname of a person who was the expert of torpedo attacks for Motor Boat fleet of the North fleet?</string>
+    <string name="Question9Eng">What was the surname of a machine gunner of 155th regiment who destroyed himself and enemies?</string>
+    <string name="Question10Eng">What award was established of The Presidium of the Supreme Council of USSR?</string>
+    <string name="Question11Eng">Which type of fleet was unexpected for enemies?</string>
+
+
+    <string name="Answer1Eng">7-29 October of 1944</string>
+    <string name="Answer2Eng">Finland</string>
+    <string name="Answer3Eng">West</string>
+    <string name="Answer4Eng">Meretskov</string>
+    <string name="Answer5Eng">Golovko</string>
+    <string name="Answer6Eng">3</string>
+    <string name="Answer7Eng">Ivchenko</string>
+    <string name="Answer8Eng">Shabalin</string>
+    <string name="Answer9Eng">Bredov</string>
+    <string name="Answer10Eng">Award of the defense of the soviet arctic</string>
+    <string name="Answer11Eng">Tank corps</string>
+
+
     <string name="BredovRus">БРЕДОВ Анатолий Федорович - пехотинец, командир отделения пулеметной роты 155‑го стрелкового полка 14‑й стрелковой дивизии Карельского фронта, сержант, Герой Советского Союза. Родился в г. Новгород. С 1938 жил в Мурманске, учился в СШ № 1. Работал слесарем на Мурманской судоверфи. Призван в армию в апреле 1942. Воевал на Мурманском направлении. В бою за высоту «Придорожная» у оз. Санта-ярви (неподалеку от пос. Спутник в Печенгском районе) 11.10.1944 в критический момент боя взорвал себя и окруживших солдат противника последней гранатой. Его наводчик Н. Ашурков при этом был тяжело ранен</string>
     <string name="IvchenkoRus">Он родился в Красноярском крае в 1916 году. Он защищал высоту Малый Кариквайвишь 7 октября 1944 года, в первый день Петсамо-Киркенесской операции.Рота,где служил Ивченко,наткнулась на губительный огонь из пулемёта,спрятанный в дот в щели горы.Но Ивченко метнул гранату в амбразуру,тем самым,дав возможность роте разгромить дот полностью.</string>
     <string name="ShablinRus">Александр Шабалин, контр-адмирал, участник советско-финской войны 1939-1940 годов и Великой Отечественной, был удостоен двух звезд Героя Советского Союза в течение одного года. Александр Шабалин, командуя обычным торпедным катером, потопил 32 корабля врага. Таких боевых достижений в мире больше не было. Также у героя была своя тактика ведения боя. </string>
